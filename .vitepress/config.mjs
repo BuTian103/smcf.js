@@ -25,7 +25,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' },
-      { icon: 'gitee', link: 'https://github.com/vuejs/vitepress' }
+      //{ icon: 'gitee', link: 'https://github.com/vuejs/vitepress' }
     ],
     footer: {
       copyright: '版权所有 © 2024 FreeDayO'
