@@ -4,17 +4,17 @@ layout: home
 
 hero:
   name: "smcf.js"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  text: "Simple MineCraft Function JavaScript"
+  tagline: 一个简单、高效、轻量、快捷的JavaScript项目
   image:
-    src: /vitepress-logo-large.webp
+    src: /smcf.webp
   actions:
     - theme: brand
       text: 快速开始
       link: /markdown-examples
     - theme: alt
       text: GitHub
-      link: https://www.github.com
+      link: https://www.github.com/butian103/smcf.js
 
 features:
   - title: 特性1
